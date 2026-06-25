@@ -1,0 +1,52 @@
+{
+  "Checking or savings account": {
+    "precision": 0.8231511254019293,
+    "recall": 0.8041884816753927,
+    "f1-score": 0.8135593220338984,
+    "support": 955.0
+  },
+  "Credit card": {
+    "precision": 0.8452787258248009,
+    "recall": 0.8414496036240091,
+    "f1-score": 0.8433598183881952,
+    "support": 883.0
+  },
+  "Debt collection": {
+    "precision": 0.9615384615384616,
+    "recall": 0.9175788795878944,
+    "f1-score": 0.9390444810543658,
+    "support": 1553.0
+  },
+  "Money transfer, virtual currency, or money service": {
+    "precision": 0.6642857142857143,
+    "recall": 0.7664835164835165,
+    "f1-score": 0.7117346938775511,
+    "support": 364.0
+  },
+  "Mortgage": {
+    "precision": 0.8913649025069638,
+    "recall": 0.9411764705882353,
+    "f1-score": 0.9155937052932761,
+    "support": 340.0
+  },
+  "Vehicle loan or lease": {
+    "precision": 0.8106060606060606,
+    "recall": 0.8842975206611571,
+    "f1-score": 0.8458498023715415,
+    "support": 242.0
+  },
+  "accuracy": 0.8644224118053955,
+  "macro avg": {
+    "precision": 0.8327041650273217,
+    "recall": 0.8591957454367009,
+    "f1-score": 0.844856970503138,
+    "support": 4337.0
+  },
+  "weighted avg": {
+    "precision": 0.8685244187111845,
+    "recall": 0.8644224118053955,
+    "f1-score": 0.8658152851744604,
+    "support": 4337.0
+  },
+  "macro_f1": 0.844856970503138
+}
